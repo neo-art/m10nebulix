@@ -23,7 +23,7 @@ const m2dxOptions = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "http://localhost:4321",
+  site: "https://incandescent-buttercream-41ff55.netlify.app/",
   integrations: [
     icon(),
     mdx({}),
